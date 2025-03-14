@@ -1,4 +1,4 @@
-# Welcome to [Your Project Name] 🎉
+# Welcome to [WEB] 🎉
 
 Thank you for checking out [WEB]! This repository contains the code and documentation for [Open Source WEB project for developers and who wanted to build website]. Whether you're here to contribute, learn, or use the project, we're excited to have you!
 
